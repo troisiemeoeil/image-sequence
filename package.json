@@ -8,9 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "watch": "webpack --watch"
-
   },
   "dependencies": {
+    "@studio-freight/lenis": "^1.0.22",
     "autoprefixer": "10.4.15",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
