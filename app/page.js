@@ -57,6 +57,7 @@ export default function Home() {
               className="dark:invert"
               style={{objectFit: "fill"}}
               fill={true}
+              loading='eager'
               priority
             />
       </header>
