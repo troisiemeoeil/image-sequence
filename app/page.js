@@ -17,7 +17,7 @@ export default function Home() {
 
 const lenis = new Lenis()
 
-
+console.log(lenis);
 function raf(time) {
   lenis.raf(time)
   requestAnimationFrame(raf)
